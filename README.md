@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Business Analyst from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
+As a successful Business Analyst, I specialize in identifying business needs and transforming them into actionable insights. With a strong focus on data-driven solutions, I help organizations optimize their processes, increase efficiency, and achieve strategic growth. Skilled in data analysis, market research, and stakeholder collaboration, I work closely with teams to ensure successful project execution and long-term business success
 <p align="left">
 </p>
 
